@@ -1,0 +1,17 @@
+C:\Users\koval\source\repos\MKR.kross\MKR.kross\obj\Debug\MKR.kross.csproj.AssemblyReference.cache
+C:\Users\koval\source\repos\MKR.kross\MKR.kross\obj\Debug\MKR.kross.csproj.SuggestedBindingRedirects.cache
+C:\Users\koval\source\repos\MKR.kross\MKR.kross\obj\Debug\MKR.kross.csproj.CoreCompileInputs.cache
+C:\Users\koval\source\repos\MKR.kross\MKR.kross\bin\Debug\MKR.kross.exe.config
+C:\Users\koval\source\repos\MKR.kross\MKR.kross\bin\Debug\MKR.kross.exe
+C:\Users\koval\source\repos\MKR.kross\MKR.kross\bin\Debug\MKR.kross.pdb
+C:\Users\koval\source\repos\MKR.kross\MKR.kross\obj\Debug\MKR.kross.exe
+C:\Users\koval\source\repos\MKR.kross\MKR.kross\obj\Debug\MKR.kross.pdb
+C:\Users\koval\source\repos\MKR.kross\MKR.kross\bin\Debug\xunit.abstractions.dll
+C:\Users\koval\source\repos\MKR.kross\MKR.kross\bin\Debug\xunit.assert.dll
+C:\Users\koval\source\repos\MKR.kross\MKR.kross\bin\Debug\xunit.core.dll
+C:\Users\koval\source\repos\MKR.kross\MKR.kross\bin\Debug\xunit.execution.desktop.dll
+C:\Users\koval\source\repos\MKR.kross\MKR.kross\bin\Debug\xunit.abstractions.xml
+C:\Users\koval\source\repos\MKR.kross\MKR.kross\bin\Debug\xunit.assert.xml
+C:\Users\koval\source\repos\MKR.kross\MKR.kross\bin\Debug\xunit.core.xml
+C:\Users\koval\source\repos\MKR.kross\MKR.kross\bin\Debug\xunit.execution.desktop.xml
+C:\Users\koval\source\repos\MKR.kross\MKR.kross\obj\Debug\MKR.kross.csproj.CopyComplete

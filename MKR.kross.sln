@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MKR.kross", "MKR.kross\MKR.kross.csproj", "{0612F958-EE8E-4B8E-ADD9-7946F6646C28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEST", "TEST\TEST.csproj", "{77988BA1-D9C5-40FF-9A31-9D1CC65A0568}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0612F958-EE8E-4B8E-ADD9-7946F6646C28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0612F958-EE8E-4B8E-ADD9-7946F6646C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0612F958-EE8E-4B8E-ADD9-7946F6646C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0612F958-EE8E-4B8E-ADD9-7946F6646C28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77988BA1-D9C5-40FF-9A31-9D1CC65A0568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77988BA1-D9C5-40FF-9A31-9D1CC65A0568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77988BA1-D9C5-40FF-9A31-9D1CC65A0568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77988BA1-D9C5-40FF-9A31-9D1CC65A0568}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BD5259C-7208-4486-AFED-F82F82426A1F}
+	EndGlobalSection
+EndGlobal
